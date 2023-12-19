@@ -13,7 +13,7 @@
   <img align="center" alt="Dudu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-<img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonardocremasco&layout=compact&langs_count=7&theme=radical" />
+<img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudueedu&layout=compact&langs_count=7&theme=radical" />
   
 ##
  
