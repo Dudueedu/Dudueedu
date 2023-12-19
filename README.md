@@ -1,9 +1,12 @@
+
 ## Hey!! WhatsUp!? 👋
+
+<img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudueedu&layout=compact&langs_count=7&theme=radical" />
+
 - I'm Eduardo Salvador!
 - Check new projects and commits 🚀🚀
 - Computer Science 🖥️
 - 🔭 I’m currently learning and working on ...
-- <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudueedu&layout=compact&langs_count=7&theme=radical" />
 
 
 <div style="display: inline_block"><br>
