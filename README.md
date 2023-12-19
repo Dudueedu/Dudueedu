@@ -3,6 +3,8 @@
 - Check new projects and commits 🚀🚀
 - Computer Science 🖥️
 - 🔭 I’m currently learning and working on ...
+- <img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudueedu&layout=compact&langs_count=7&theme=radical" />
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,8 +14,6 @@
   <img align="center" alt="DUDU-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dudu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
-<img align="right" height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dudueedu&layout=compact&langs_count=7&theme=radical" />
   
 ##
  
