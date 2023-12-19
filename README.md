@@ -28,4 +28,4 @@
 
 ##
    
- ![Snake animation](https://github.com/leonardocremasco/leonardocremasco/blob/main/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/dudueedu/dudueedu/blob/main/github-contribution-grid-snake.svg)
