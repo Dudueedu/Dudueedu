@@ -1,7 +1,6 @@
 ## Hey!! WhatsUp!? 👋
 - I'm Eduardo Salvador!
 - Check new projects and commits 🚀🚀
-- Back-End developer and Computer technician
 - Computer Science 🖥️
 - 🔭 I’m currently learning and working on ...
 
